@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884076200973",
+    "project_id": "idopontfoglalas-f452a",
+    "storage_bucket": "idopontfoglalas-f452a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884076200973:android:b96b84556cc9e165ff0144",
+        "android_client_info": {
+          "package_name": "com.dmv.idopontfoglalas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDd7Nonka6wiYlPn2eeaxlQ8mvsMmjxSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

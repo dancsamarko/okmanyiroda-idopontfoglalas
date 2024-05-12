@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Okmányiroda Időpontfoglalás</string>
+    <string name="login_button">Bejelentkezés</string>
+    <string name="register_button">Regisztráció</string>
+    <string name="email">E-mail</string>
+    <string name="password">Jelszó</string>
+    <string name="app_title">Okmányiroda Időpontfoglalás</string>
+    <string name="full_name">Teljes név</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel_button">Vissza</string>
+    <string name="deleteAppointment">Törlés</string>
+    <string name="new_appointment">Új időpont</string>
+    <string name="book_appointment">Időpont lefoglalása</string>
+    <string name="change_date">Dátum módosítása</string>
+    <string-array name="business">
+        <item>Személyazonosító igazolvány cseréje</item>
+        <item>Magánútlevél kiadása</item>
+        <item>Ügyfélkapu-regisztráció</item>
+        <item>Vezetői engedély cseréje</item>
+    </string-array>
+
+</resources>
