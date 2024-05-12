@@ -2,8 +2,8 @@
 
 Segítség értékeléshez:
 
-A két animáció az AppointmentItemAdapter.java és a BookingActivity.java-ban van.
-Az onCreate-n kívüli lifecycle hook BookingsListActivity.java-ban van (onResume).
+- A két animáció az AppointmentItemAdapter.java és a BookingActivity.java-ban van.
+- Az onCreate-n kívüli lifecycle hook BookingsListActivity.java-ban van (onResume).
 
 Nem megvalósított/hiányos pontok:
   - Android permission
